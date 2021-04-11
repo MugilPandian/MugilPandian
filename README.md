@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am a Student at **Sri Shakthi Institute of Engineering and Technology**, I am very passionate about **Java Programming** and **Full Stack Development**.
+I am a **Student** at **Sri Shakthi Institute of Engineering and Technology**, I am very passionate about **Java Programming** and **Full Stack Development**.
 
 - 🔭 I’m currently working on **Web Development Projects**
 - 🌱 I’m currently learning **ReactJS, Angular, SpringBoot**
