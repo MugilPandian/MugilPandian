@@ -2,9 +2,9 @@
 
 I am a **Student** at **Sri Shakthi Institute of Engineering and Technology**, I am very passionate about **Java Programming** and **Full Stack Development**.
 
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **ReactJS, Angular, SpringBoot**
-- 👯 I’m looking to collaborate on **Web Based Projects**
+- 🔭 I’m currently working on **Web Development Projects**.
+- 🌱 I’m currently learning **ReactJS, Angular, SpringBoot**.
+- 👯 I’m looking to collaborate on **Web Based Projects**.
 - 💬 Ask me about **Anything**, reach me at [Linkedin.](https://www.linkedin.com/in/mugilpandianv/)
 
 - ### My Languages
