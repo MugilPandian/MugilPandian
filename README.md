@@ -13,6 +13,6 @@ I am a **Student** at **Sri Shakthi Institute of Engineering and Technology**, I
 
 - ### Repositories
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MugilPandian&repo=Java_Programs&theme=radical&hide_border=true&border_radius=15&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MugilPandian&repo=Java_Programs&theme=radical&hide_border=true&border_radius=15&show_icons=true)](https://github.com/MugilPandian/Java_Programs)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MugilPandian&repo=FullStackProject&theme=radical&hide_border=true&border_radius=15&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MugilPandian&repo=FullStackProject&theme=radical&hide_border=true&border_radius=15&show_icons=true)](https://github.com/MugilPandian/FullStackProject)
